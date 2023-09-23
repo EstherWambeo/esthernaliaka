@@ -8,9 +8,15 @@ The Loan Approval System is a Python-based application designed to automate and 
 Table of Contents
 
 Key Features
+
 Technologies Used
+
 Usage
+
 Project Structure
+
 Contributors
+
 License
+
 Acknowledgments
